@@ -1,0 +1,14 @@
+.tbl-form{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.cld-align{
+    text-align: center;
+}
+
+.messageResponse{
+    font-size: 1.125rem;
+}

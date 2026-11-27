@@ -1,0 +1,4 @@
+com\neology\palindromoapp\JakartaRestConfiguration.class
+com\neology\controler\Word.class
+com\neology\controler\ProcessForm.class
+com\neology\palindromoapp\resources\JakartaEE10Resource.class
